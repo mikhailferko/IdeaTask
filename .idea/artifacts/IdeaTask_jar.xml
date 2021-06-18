@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="IdeaTask:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/IdeaTask_jar</output-path>
+    <root id="archive" name="IdeaTask.jar">
+      <element id="module-output" name="IdeaTask" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/com/googlecode/json-simple/json-simple/1.1/json-simple-1.1.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
